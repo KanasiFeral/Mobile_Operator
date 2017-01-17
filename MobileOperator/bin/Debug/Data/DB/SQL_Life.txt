@@ -1,0 +1,55 @@
+create database LifeDB;
+
+use LifeDB;
+
+create table USERS
+(
+	iIdUsers int not null primary key,
+	vName varchar(255) not null,
+	vPassword varchar (100) not null,
+	iType int not null
+);
+
+create table TARIFF_PLAN
+(
+	iIdTariffPlan int not null primary key,
+	vName varchar(255) not null,
+	vDescription varchar(255) not null,
+	vSubscriptionFee varchar(100) not null 
+);
+
+create table CALLERS
+(
+	iIdCallers int not null primary key,
+	fk_iIdUsers int not null,
+	vDateBirth varchar(100) not null,
+	fk_iIdTariffPlan int not null,
+	vNumerOfPhone varchar(100) not null,
+	vSumm varchar(100) not null,
+	vDateContract varchar(100) not null,
+	FOREIGN KEY (fk_iIdUsers) REFERENCES 
+	USERS(iIdUsers) ON DELETE CASCADE,
+	FOREIGN KEY (fk_iIdTariffPlan) REFERENCES 
+	TARIFF_PLAN(iIdTariffPlan) ON DELETE CASCADE
+);
+
+create table SERVICES
+(
+	iIdServices int not null primary key,
+	vName varchar(255) not null,
+	fk_iIdTariffPlan int not null,
+	vPrice varchar(100) not null,
+	FOREIGN KEY (fk_iIdTariffPlan) REFERENCES 
+	TARIFF_PLAN(iIdTariffPlan) ON DELETE CASCADE
+);
+
+create table WRITE_OF_SERVICES
+(
+	iIdWriteOfServices int not null primary key,
+	vFio varchar(255) not null,
+	vDateOfWriteOff varchar(255) not null,
+	vTariffPlan varchar(255) not null,
+	vServices varchar(255) not null,
+	vPrice varchar(100) not null,
+	vSumm varchar(100) not null
+);

@@ -1,0 +1,20 @@
+I:\Олег Дешко\MobileOperator\MobileOperator\bin\Release\MobileOperator.exe.config
+I:\Олег Дешко\MobileOperator\MobileOperator\bin\Release\MobileOperator.exe
+I:\Олег Дешко\MobileOperator\MobileOperator\bin\Release\MobileOperator.pdb
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.csprojResolveAssemblyReference.cache
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.LogIn.resources
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.Main.resources
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.Properties.Resources.resources
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.csproj.GenerateResource.Cache
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.exe
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.pdb
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\bin\Release\MobileOperator.exe.config
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.exe
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.pdb
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\bin\Release\MobileOperator.exe
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\bin\Release\MobileOperator.pdb
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.csprojResolveAssemblyReference.cache
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.LogIn.resources
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.Main.resources
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.Properties.Resources.resources
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Release\MobileOperator.csproj.GenerateResource.Cache

@@ -1,0 +1,30 @@
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe.config
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.pdb
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.csprojResolveAssemblyReference.cache
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.Main.resources
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.Properties.Resources.resources
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.csproj.GenerateResource.Cache
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.exe
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.pdb
+E:\Работы на заказ(БГУиР)\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.LogIn.resources
+I:\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe.config
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.exe
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.pdb
+I:\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe
+I:\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.pdb
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.csprojResolveAssemblyReference.cache
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.LogIn.resources
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.Main.resources
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.Properties.Resources.resources
+I:\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.csproj.GenerateResource.Cache
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe.config
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.exe
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.pdb
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.exe
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\bin\Debug\MobileOperator.pdb
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.csprojResolveAssemblyReference.cache
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.LogIn.resources
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.Main.resources
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.Properties.Resources.resources
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Олег Дешко\MobileOperator\MobileOperator\obj\Debug\MobileOperator.csproj.GenerateResource.Cache
